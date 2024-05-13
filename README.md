@@ -50,3 +50,4 @@ invisTable: To make a table that is invisible, other than the content.
 
 ---
 
+Thanks @kevquirk and @lkhrs for making a great CSS file.
