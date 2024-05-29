@@ -48,6 +48,15 @@ invisTable: To make a table that is invisible, other than the content.
 }
 ```
 
+smallmarg: sets the top and bottom margin to 1.5rem
+
+```CSS
+.smallmarg {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+```
+
 ---
 
 Thanks @kevquirk and @lkhrs for making a great CSS file.
