@@ -57,6 +57,15 @@ smallmarg: sets the top and bottom margin to 1.5rem
 }
 ```
 
+invisAside: Make the border of aside invisible
+
+```CSS
+.invisAside {
+  background-color: var(--bg);
+  border: 1px solid var(--bg);
+}
+```
+
 ---
 
 Thanks @kevquirk and @lkhrs for making a great CSS file.
