@@ -34,7 +34,7 @@ jobs:
       - name: Prep CSS file
         run: mkdir site && mv style.css site/style.css
       - name: Add redirect index
-        run: printf "<meta http-equiv="refresh" content="0; url=http://nthp.me/"/>" >> site/index.html
+        run: printf "<!DOCTYPE html> \n <head> \n <meta http-equiv="refresh" content="0; url=http://nthp.me/"/> \n </head> \n </html>" >> site/index.html
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
