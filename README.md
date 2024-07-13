@@ -1,8 +1,8 @@
 # NTHP.me CSS
 
-This is the CSS file used for my website [nthp.me](https://nthp.me). 
+This is the CSS file used for my website [nthp.me](https://nthp.me). It is a modified version of [simple.css](https://github.com/kevquirk/simple.css).
 
-This CSS file is a modified version of [simple.css](https://github.com/kevquirk/simple.css), and contains the following additions.
+## How To Use
 
 If you would like to use this CSS file, you can either
 
