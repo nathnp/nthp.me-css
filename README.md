@@ -4,6 +4,18 @@ This is the CSS file used for my website [nthp.me](https://nthp.me).
 
 This CSS file is a modified version of [simple.css](https://github.com/kevquirk/simple.css), and contains the following additions.
 
+If you would like to use this CSS file, you can either
+
+1. Download the style.css file 
+
+- Pros: Fast load times
+- Cons: No automatic updates
+
+2. Add this line to your head `<link rel="stylesheet" href="https://css.nthp.me/style.css">`
+
+- Pros: Easy to use, automatic updates
+- Cons: Slower load times, atomatic updates
+
 ## Added Things
 
 flexbox: To keep my posts tags from line braking
