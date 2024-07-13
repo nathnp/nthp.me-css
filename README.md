@@ -20,7 +20,7 @@ If you would like to use this CSS file, you can either
 > While automatic updates sound good, your site will start using any changes I make the moment I push the changes.
 > While I provide the link for those that want to be lazy, I recomend that you download the style.css file, and host it yourself.
 
-## Added Things
+## Added Classes
 
 flexbox: To keep my posts tags from line braking
 
