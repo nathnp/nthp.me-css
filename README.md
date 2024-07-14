@@ -1,5 +1,7 @@
 # NTHP.me CSS
 
+[![Lazy link deploy](https://github.com/nathnp/nthp.me-css/actions/workflows/static.yml/badge.svg)](https://github.com/nathnp/nthp.me-css/actions/workflows/static.yml)
+
 This is the CSS file used for my website [nthp.me](https://nthp.me). It is a modified version of [simple.css](https://github.com/kevquirk/simple.css).
 
 ## How To Use
